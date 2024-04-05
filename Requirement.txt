@@ -1,0 +1,22 @@
+1. click her to enter a date in the word document to be updated with current date whenever the program runs
+
+2. [Customer First Name Last Name] - to be updated with the value from excel load that as dataframe and fill with PRIM_CUST_FULLNAME
+
+3. [Address] to be updated with the value from excel load that as dataframe and fill with state
+
+4. [Address] to be updated with the value from excel load that as dataframe and fill with zip
+
+5. choose an item alias Account/Application Numbers - choose account number ending in: from the drop down list and in place of xxxx replace with last four digit of acc_num from excel loaded as dataframe
+
+6. [First Name Last Name]- to be updated with the value from excel load that as dataframe and fill with PRIM_CUST_FULLNAME
+
+7. choose an item alias Resolution Openings - choose Thank you for contacting us. We completed our research and are providing details to address your concerns.
+
+8. choose an item alias Me/Us - choose us from the list
+
+9. choose an item alias contact Us - select this option from the list reach us @291090
+
+
+Do this for all case_nr in the dataframe from the loaded excel and if the standard_letter_ID is BT129
+
+    
